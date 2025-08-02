@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技术 on 我的 Hugo 博客</title>
+    <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</link>
+    <description>Recent content in 技术 on 我的 Hugo 博客</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 02 Aug 2025 11:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>开启我的博客之旅 🚀</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 02 Aug 2025 11:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;“记录所思所想，分享点滴经验。”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;🌟 欢迎来到我的博客！这是我用 &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; 和 &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; 主题搭建的第一个页面。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-为什么选择-hugo&#34;&gt;📌 为什么选择 Hugo？&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ 超快的构建速度（几乎秒开）&lt;/li&gt;
+&lt;li&gt;✍️ 使用 Markdown 写文章简单直接&lt;/li&gt;
+&lt;li&gt;🎨 超多漂亮主题可选，像我用的 PaperMod 就很清新简洁&lt;/li&gt;
+&lt;li&gt;💡 非常适合用来搭建技术博客或个人主页&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-博客部署计划&#34;&gt;🔧 博客部署计划&lt;/h2&gt;
+&lt;p&gt;我打算将博客部署到 GitHub Pages 或 Cloudflare Pages，让它对全世界开放。并会持续更新以下内容：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📖 技术笔记（编程、自动化、脚本开发等）&lt;/li&gt;
+&lt;li&gt;🔍 使用教程（Hugo、Playwright、OpenWRT 等）&lt;/li&gt;
+&lt;li&gt;🧠 灵感与思考（记录成长路上的想法）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-还在完善中&#34;&gt;🚧 还在完善中&amp;hellip;&lt;/h2&gt;
+&lt;p&gt;我正在优化博客配置，后续会加上：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;黑暗模式切换 🌙&lt;/li&gt;
+&lt;li&gt;自定义首页图标&lt;/li&gt;
+&lt;li&gt;代码高亮和图片预览&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-联系我&#34;&gt;📬 联系我？&lt;/h2&gt;
+&lt;p&gt;博客目前还没有评论区，欢迎通过 Telegram 或 GitHub Issues 给我留言（以后会加上评论功能）～&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;📢 &lt;strong&gt;谢谢你的阅读！&lt;/strong&gt;&lt;br&gt;
+喜欢的话记得收藏、关注，或者告诉我你也想搭一个自己的博客，我可以写个教程来帮助你 😊&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

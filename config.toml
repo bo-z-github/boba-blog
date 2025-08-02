@@ -1,0 +1,15 @@
+baseURL = "http://localhost:1313/"
+languageCode = "zh-cn"
+title = "boba博客"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  ShowReadingTime  = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+
+
+  
