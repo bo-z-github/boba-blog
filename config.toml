@@ -11,5 +11,10 @@ theme = "PaperMod"
   ShowShareButtons = true
   ShowPostNavLinks = true
 
+  # 如果你不想在本地/预览和生产环境来回修改 baseURL
+  relativeURLs = true
+  canonifyURLs = false
+
+
 
   
