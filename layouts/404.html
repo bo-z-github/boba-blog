@@ -1,0 +1,19 @@
+{{/* layouts/404.html */}}
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <!-- 1 秒后重定向到首页，也可改为 0 秒 -->
+  <meta http-equiv="refresh" content="1;url={{ "/" | relLangURL }}" />
+  <title>页面不存在 – 正在跳转到首页…</title>
+  <style>
+    body { font-family: sans-serif; text-align:center; padding: 100px; color: #555; }
+    a { color: #3498db; text-decoration:none; }
+  </style>
+</head>
+<body>
+  <h1>404 · 页面不存在</h1>
+  <p>正在跳转到 <a href="{{ "/" | relLangURL }}">首页</a>…</p>
+  <p>如果没有自动跳转，请点击上方链接。</p>
+</body>
+</html>
