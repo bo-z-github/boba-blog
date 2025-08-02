@@ -1,5 +1,5 @@
 # baseURL = "http://localhost:1313/"
-baseURL = "blog.babage.eu.org"
+baseURL = "https://blog.babage.eu.org/"
 languageCode = "zh-cn"
 title = "boba博客"
 theme = "PaperMod"
